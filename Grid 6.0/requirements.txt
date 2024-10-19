@@ -1,0 +1,8 @@
+opencv-python
+tensorflow
+numpy
+flask
+paho-mqtt
+Pillow
+pytesseract
+open3d
